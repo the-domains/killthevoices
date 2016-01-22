@@ -1,0 +1,28 @@
+name: '#killthevoices'
+favicon: null
+layout_spectrum: 0.6058036084286869
+typography_spectrum: 0.6891875313594937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5270257419906557
+  lightness: 0.48920300230383873
+  saturation: 0.23966866149567068
+  rhythmicContrast: 0.34383139945566654
+purpose: []
